@@ -12,4 +12,4 @@ Explored Spotify streaming data to uncover trends in top songs, artists, and aud
 Design Note:
 Inspired by the latest iOS glass theme update from Apple, I incorporated a modern frosted glass effect throughout the dashboard for a clean, immersive feel all in Spotify’s signature dark green aesthetic.
 
-![Dashboard](Spotify Dashboard image.png)
+![Dashboard](image.png)
